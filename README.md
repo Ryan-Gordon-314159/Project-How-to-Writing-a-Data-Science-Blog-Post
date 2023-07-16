@@ -2,7 +2,7 @@
 Data Science for Scientist's Nanodegree Program with Udacity
 
 # Overview
-For this project, the dataset from the 2017 Stack Overflow Developer Survey was used to consider three different interesting questions pertaining to this data. The dataset used for this analysis can be accessed at this location: https://www.kaggle.com/datasets/stackoverflow/so-survey-2017.
+For this project, the dataset from the 2017 Stack Overflow Developer Survey was used to consider three different interesting questions pertaining to this data. The dataset used for this analysis can be accessed at this location: https://www.kaggle.com/datasets/stackoverflow/so-survey-2017. In this project, I applied the CRISP-DM process for performing this analysis.
 
 # Questions
 Three interesting questions were considered from this dataset:
