@@ -12,6 +12,11 @@ Three interesting questions were considered from this dataset:
 
 # Folders and Files
 - Folder: Question 1
-    * File: 
+    * File: Breakdown-Professional-Descriptions.png
+         * Description:
+    * File: Responses-for-Hobby-Coding.png
+         * Description:
+    * File: Summary-Plot-Question1.png
+         * Description:
 
 # Link to blog
