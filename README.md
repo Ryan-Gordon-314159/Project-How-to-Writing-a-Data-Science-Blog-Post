@@ -26,16 +26,19 @@ Three interesting questions were considered from this dataset:
          * Description: This plot summarizes the results from Question 1 by plotting the values from "ProgramHobby" column on a bar graph, separated by profession.
 - Folder: Question 2
     * File: Breakdown-WorkPayCare.png
-         * Description:
+         * Description: This pie chart summarizes the responses to how well respondents agree with the statement "I don't really care what I work on, so long as I'm paid well", noramlized by the total number of responses.
     * File: Salary-Broken-Down-by-Response.png
-         * Description
+         * Description: This figure summarizes the results from Question 2, showing the salary ranges for each responses by boxplots.
 - Folder: Question 3
-    * File: Breakdown-Job-Satisfaction-Values.png
-    * File: Formal-Ed-vs-Job-Satisfaction.png
     * File: Formal-Education-Breakdown.png
+         * Description: This bar chart shows the normalized responses to the question "Which of the following best describes the highest level of formal education that you've completed?" 
+    * File: Breakdown-Job-Satisfaction-Values.png
+         * Description: This pie chart shows the values given for "Job satisfaction rating".
+   * File: Formal-Ed-vs-Job-Satisfaction.png
+         * Description: This bar graph shows on a semi-log scale the job satisfaction ratings, separated by levels of formal education.
 - File: Data_Analysis.pdf
-    * Description:
+    * Description: This is a pdf of the Jupyter notebook Data_Analysis.ipynb, showing the outputs for each cell.
 - File: Jupyter_Notebook.zip
-    * Description:
+    * Description: This is a compressed folder of the Jupyter notebook used for this analysis, Data_Analysis.ipynb, along with the two csv files used from the 2017 Stack Overflow Developer Survery data set.
 
 # Link to blog
