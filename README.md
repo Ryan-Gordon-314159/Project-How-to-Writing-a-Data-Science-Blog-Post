@@ -21,10 +21,15 @@ Three interesting questions were considered from this dataset:
 - Folder: Question 2
     * File: Breakdown-WorkPayCare.png
          * Description:
-    * Salary-Broken-Down-by-Response.png
+    * File: Salary-Broken-Down-by-Response.png
          * Description
 - Folder: Question 3
+    * File: Breakdown-Job-Satisfaction-Values.png
+    * File: Formal-Ed-vs-Job-Satisfaction.png
+    * File: Formal-Education-Breakdown.png
 - File: Data_Analysis.pdf
+    * Description:
 - File: Jupyter_Notebook.zip
+    * Description:
 
 # Link to blog
