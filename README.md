@@ -42,3 +42,4 @@ Three interesting questions were considered from this dataset:
     * Description: This is a compressed folder of the Jupyter notebook used for this analysis, Data_Analysis.ipynb, along with the two csv files used from the 2017 Stack Overflow Developer Survery data set.
 
 # Link to blog
+The results from this data analysis project are summarized in the following Medium blog: https://medium.com/@rtg314159/digging-deep-into-analyzing-stack-overflow-developer-survey-responses-aa26fe4c1e43
