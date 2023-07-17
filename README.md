@@ -21,9 +21,9 @@ Three interesting questions were considered from this dataset:
     * File: Breakdown-Professional-Descriptions.png
          * Description: This figure shows all of the possible values that respondents entered in response to the question "Which of the following best describes you?". These values are normalized by the total numer of responses and plotted on a pie chart.
     * File: Responses-for-Hobby-Coding.png
-         * Description:
+         * Description: This pie chart summarizes the responses to the question "Do you program as a hobby or contribute to open source projects?".
     * File: Summary-Plot-Question1.png
-         * Description:
+         * Description: This plot summarizes the results from Question 1 by plotting the values from "ProgramHobby" column on a bar graph, separated by profession.
 - Folder: Question 2
     * File: Breakdown-WorkPayCare.png
          * Description:
