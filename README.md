@@ -18,5 +18,13 @@ Three interesting questions were considered from this dataset:
          * Description:
     * File: Summary-Plot-Question1.png
          * Description:
+- Folder: Question 2
+    * File: Breakdown-WorkPayCare.png
+         * Description:
+    * Salary-Broken-Down-by-Response.png
+         * Description
+- Folder: Question 3
+- File: Data_Analysis.pdf
+- File: Jupyter_Notebook.zip
 
 # Link to blog
