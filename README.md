@@ -23,7 +23,7 @@ Three interesting questions were considered from this dataset:
     * File: Responses-for-Hobby-Coding.png
          * Description: This pie chart summarizes the responses to the question "Do you program as a hobby or contribute to open source projects?".
     * File: Summary-Plot-Question1.png
-         * Description: This plot summarizes the results from Question 1 by plotting the values from "ProgramHobby" column on a bar graph, separated by profession.
+         * Description: This plot summarizes the results from Question 1 by plotting the values from the "ProgramHobby" column on a bar graph, separated by profession.
 - Folder: Question 2
     * File: Breakdown-WorkPayCare.png
          * Description: This pie chart summarizes the responses to how well respondents agree with the statement "I don't really care what I work on, so long as I'm paid well", noramlized by the total number of responses.
