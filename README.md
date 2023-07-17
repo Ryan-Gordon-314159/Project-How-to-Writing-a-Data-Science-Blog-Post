@@ -34,7 +34,7 @@ Three interesting questions were considered from this dataset:
          * Description: This bar chart shows the normalized responses to the question "Which of the following best describes the highest level of formal education that you've completed?" 
     * File: Breakdown-Job-Satisfaction-Values.png
          * Description: This pie chart shows the values given for "Job satisfaction rating".
-   * File: Formal-Ed-vs-Job-Satisfaction.png
+    * File: Formal-Ed-vs-Job-Satisfaction.png
          * Description: This bar graph shows on a semi-log scale the job satisfaction ratings, separated by levels of formal education.
 - File: Data_Analysis.pdf
     * Description: This is a pdf of the Jupyter notebook Data_Analysis.ipynb, showing the outputs for each cell.
