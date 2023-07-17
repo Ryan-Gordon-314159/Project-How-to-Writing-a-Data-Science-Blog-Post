@@ -2,7 +2,13 @@
 Data Science for Scientist's Nanodegree Program with Udacity
 
 # Overview
-For this project, the dataset from the 2017 Stack Overflow Developer Survey was used to consider three different interesting questions pertaining to this data. The dataset used for this analysis can be accessed at this location: https://www.kaggle.com/datasets/stackoverflow/so-survey-2017. In this project, I applied the CRISP-DM process for performing this analysis.
+For this project, the dataset from the 2017 Stack Overflow Developer Survey was used to consider three different interesting questions pertaining to this data. The dataset used for this analysis can be accessed at this location: https://www.kaggle.com/datasets/stackoverflow/so-survey-2017. In this project, I applied the CRISP-DM process for performing this analysis, which had the following steps:
+1) Business understanding
+2) Data understanding
+3) Data preparation
+4) Modeling
+5) Evaluation
+6) Deployment
 
 # Questions
 Three interesting questions were considered from this dataset:
@@ -13,7 +19,7 @@ Three interesting questions were considered from this dataset:
 # Folders and Files
 - Folder: Question 1
     * File: Breakdown-Professional-Descriptions.png
-         * Description:
+         * Description: This figure shows all of the possible values that respondents entered in response to the question "Which of the following best describes you?". These values are normalized by the total numer of responses and plotted on a pie chart.
     * File: Responses-for-Hobby-Coding.png
          * Description:
     * File: Summary-Plot-Question1.png
